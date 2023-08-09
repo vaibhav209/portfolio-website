@@ -23,7 +23,7 @@ This portfolio website provides an overview of my background, skills, projects, 
 
 ## Getting Started
 
-To view my portfolio, simply visit [My Portfolio Website](https://your-portfolio-link-here.com).
+To view my portfolio, simply visit [My Portfolio Website](https://vaibhav209.github.io/portfolio-website/)
 
 
 ## Credits
